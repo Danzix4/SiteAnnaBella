@@ -1,3 +1,37 @@
 body{
-    
+background: #d2d2c1 url('../img/fundo.png');
+font: 18px Arial, Helvetica, sans-serif;
+margin: 10px 224.5px;
 }
+#principal{
+    width: 900px;
+}
+#menu{
+    background: #c5c5b2;
+    padding: 18px; 
+    font-weight: 700;
+}
+#menu ul{
+    padding: 0px;
+}
+#menu li{
+    padding: 42px;
+    display: inline;
+}
+#sobre{
+    background: honeydew;
+    padding: 28px;
+}
+footer{
+    text-align: center;
+    font-weight: 500;
+}
+a{
+    color: rgb(70, 85, 68);
+    text-decoration: none;
+}
+
+a:hover{
+    color: gray;
+}
+
