@@ -8,7 +8,7 @@ margin: 10px 224.5px;
 }
 #menu{
     background: #c5c5b2;
-    padding: 18px; 
+    padding: 13px 18px; 
     font-weight: 700;
 }
 #menu ul{
@@ -22,6 +22,13 @@ margin: 10px 224.5px;
     background: honeydew;
     padding: 28px;
 }
+#menu-campanha{
+    margin-right: 95px;
+    margin-left: 95px;
+}
+.campanha{
+    border: 5px solid #c5c5b2;
+}
 footer{
     text-align: center;
     font-weight: 500;
@@ -33,5 +40,9 @@ a{
 
 a:hover{
     color: gray;
+}
+h1{
+   color: rgb(70, 85, 68);
+   font-size: 1.2em;
 }
 
